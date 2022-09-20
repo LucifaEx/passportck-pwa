@@ -1,0 +1,23 @@
+   {
+    "name": "Passport Check",
+    "short_name": "Passport Check",
+    "icons": [
+        {
+            "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCpYiRSoksj_YRs3as2kFpExl4aU1Qes6p0m4VOENnxP_2K2FcIHkBg8mi9kEofUCBzgLnkG-_vfQhq2QGfsHHgutPSxmKlBwe879WtIjVr2nFhIu-yZthdFy7VAIgKTuk-kw85fY2HskW7f3T1DYFjDv7cn4k4nteXkE9YiIcKdDDsoL5kPzzb9qn/s192/icon.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCpYiRSoksj_YRs3as2kFpExl4aU1Qes6p0m4VOENnxP_2K2FcIHkBg8mi9kEofUCBzgLnkG-_vfQhq2QGfsHHgutPSxmKlBwe879WtIjVr2nFhIu-yZthdFy7VAIgKTuk-kw85fY2HskW7f3T1DYFjDv7cn4k4nteXkE9YiIcKdDDsoL5kPzzb9qn/s512/icon.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ],
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "prefer_related_applications": false,
+  "start_url": "https://www.passportcheck.xyz/"
+}
